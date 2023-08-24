@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DemoSeguimientoDNT.Api.props" />
+</Project>
